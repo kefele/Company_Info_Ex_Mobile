@@ -30,7 +30,7 @@ p{
 
   
   nav{
-/*    display: block;*/
+   display: block;
     background-color: #f9fafc;
     justify-content: flex-end;
     

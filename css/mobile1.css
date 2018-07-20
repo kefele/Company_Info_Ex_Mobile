@@ -35,8 +35,13 @@ button{width: 100%;
   background: black;
   color: white;
 }
-@media only  screen   and (min-width: 768px){
-
+/* @media only  screen   and (min-width: 768px){
+  .info{
+    float: left;
+    width: 45%;
+    border-left-style: solid;
+    border-left-color: #69696a;
+  }
   
   .graphic{
     left: 2%;
@@ -99,5 +104,5 @@ button{width: 100%;
   }
 
 }
-
+ */
 
